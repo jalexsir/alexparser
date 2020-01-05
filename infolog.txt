@@ -1,0 +1,2 @@
+Amount of triggered HTTP requests: 123
+Amount of extracted products: 122
